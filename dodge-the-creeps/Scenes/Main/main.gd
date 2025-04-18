@@ -1,7 +1,7 @@
 extends Node
 
 @export var mob_scene: PackedScene
-var score
+var score : int
 
 
 func game_over() -> void:
